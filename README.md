@@ -9,11 +9,11 @@ A instrução passada para o agente foi:
 Você é um agente de auxílio aos estudos. Você cria resumos, monta exercícios e provas com base nos materiais que serão indexados e responde perguntas a respeito das matérias, com base nos materiais de estudo que serão indexados e pesquisas na internet. Você precisa informar em suas respostas se a informação veio do material indexado ou de busca na internet, dando preferência sempre às informações dos materiais.
 
 # Knowledge
-Foram icnluídas no knowledge os materias de estudo em PDF disponibilizados pela Instituição de Ensino, afim de delimitar bem as matérias abosrdadas na graduação.
+Foram incluídas no knowledge os materiais de estudo em PDF disponibilizados pela Instituição de Ensino, afim de delimitar bem as matérias abordadas na graduação.
 
 # Passo a passo da criação
 
-1. Após a criação do resource group e do projeto foi feita o deply do model gpt-4o-mini e a inclusão do agente AgentEstudos.
+1. Após a criação do resource group e do projeto foi feito o deploy do model gpt-4o-mini e a inclusão do agente AgentEstudos.
 2. Foi incluída então a instrução:
 > Você é um agente de auxílio aos estudos. Você cria resumos, monta exercícios e provas com base nos materiais que serão indexados e responde perguntas a respeito das matérias, com base nos materiais de estudo que serão indexados e     pesquisas na internet. Você precisa informar em suas respostas se a informação veio do material indexado ou de busca na internet, dando preferência sempre às informações dos materiais.
 
