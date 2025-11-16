@@ -62,3 +62,7 @@ Foram icnluídas no knowledge os materias de estudo em PDF disponibilizados pela
 ![Image](https://github.com/user-attachments/assets/bbc6b7e8-8d3c-4efe-b9eb-57b6e8f37a1b)
 
 ![Image](https://github.com/user-attachments/assets/37e99230-9f26-4082-8b8b-0057217cb331)
+
+# Referências
+
+- [Azure AI Foundry](https://ai.azure.com)
