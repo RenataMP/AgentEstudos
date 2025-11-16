@@ -66,3 +66,4 @@ Foram icnluídas no knowledge os materias de estudo em PDF disponibilizados pela
 # Referências
 
 - [Azure AI Foundry](https://ai.azure.com)
+- [Portal Azure](https://portal.azure.com)
